@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'CC6L'
+copyright = '2025, BSIT3'
+author = 'Brillo Jamby, Mogar Ramel, Obrique Henry, Miclat Melquisedic'
 
 release = '0.1'
 version = '0.1.0'
