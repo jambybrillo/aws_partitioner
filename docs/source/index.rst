@@ -9,8 +9,7 @@ It provides a gamified experience that covers core AWS concepts and services,
 leveraging hands-on activities in a virtual environment. Players complete quests,
 solve real-world business challenges, and gain cloud skills along the way.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Check out the :doc:`overview` section for more details about how the game works and the learning outcomes.
 
 .. note::
 
@@ -20,7 +19,10 @@ Contents
 --------
 
 .. toctree::
+   :maxdepth: 2
+   :caption: Table of Contents
 
+   overview
    usage
    api
 
