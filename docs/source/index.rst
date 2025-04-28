@@ -22,7 +22,5 @@ Contents
    :maxdepth: 2
    :caption: Table of Contents
 
-   overview
-   usage
-   api
+   introduction/index
 
