@@ -1,12 +1,28 @@
-AWS Cloud Quest: Cloud Practitioner is an interactive learning game from Amazon Web Services designed to help beginners build foundational cloud computing skills in a fun, gamified environment. It's a great starting point for those preparing for the AWS Certified Cloud Practitioner exam or simply wanting to understand core AWS services.
+Welcome to AWS Cloud Quest: Cloud Practitioner Documentation!
+=============================================================
 
-🔍 Key Details:
-Target Audience: Beginners, students, IT newcomers, business professionals.
+**AWS Cloud Quest: Cloud Practitioner** is an interactive, role-playing learning game
+developed by Amazon Web Services (AWS) to help beginners and professionals
+learn the fundamentals of cloud computing.
 
-Format: 3D role-playing game (RPG)-style learning.
+It provides a gamified experience that covers core AWS concepts and services,
+leveraging hands-on activities in a virtual environment. Players complete quests,
+solve real-world business challenges, and gain cloud skills along the way.
 
-Platform: Browser-based via AWS Skill Builder
+Check out the :doc:`usage` section for further information, including
+how to :ref:`installation` the project.
 
-Cost: Free with an AWS Skill Builder account.
+.. note::
 
-========
+   This training resource is continuously updated to align with the latest AWS best practices.
+
+Contents
+--------
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Table of Contents
+
+   usage
+   api
+
