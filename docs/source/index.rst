@@ -1,17 +1,20 @@
-Welcome to Lumache's documentation!
-===================================
+Welcome to AWS Cloud Quest: Cloud Practitioner Documentation!
+=============================================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**AWS Cloud Quest: Cloud Practitioner** is an interactive, role-playing learning game
+developed by Amazon Web Services (AWS) to help beginners and professionals
+learn the fundamentals of cloud computing.
+
+It provides a gamified experience that covers core AWS concepts and services,
+leveraging hands-on activities in a virtual environment. Players complete quests,
+solve real-world business challenges, and gain cloud skills along the way.
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
 
 .. note::
 
-   This project is under active development.
+   This training resource is continuously updated to align with the latest AWS best practices.
 
 Contents
 --------
@@ -20,3 +23,4 @@ Contents
 
    usage
    api
+
