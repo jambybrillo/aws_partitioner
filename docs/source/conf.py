@@ -5,6 +5,7 @@
 project = 'CC6L'
 copyright = '2025, BSIT3'
 author = 'Brillo Jamby, Mogar Ramel, Obrique Henry, Miclat Melquisedic'
+group = '6'
 
 release = '0.1'
 version = '0.1.0'
