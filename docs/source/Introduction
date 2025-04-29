@@ -1,0 +1,21 @@
+AWS Cloud Quest: Cloud Practitioner
+===================================
+
+This repository documents the **Introduction** to AWS Cloud Quest: Cloud Practitioner — 
+an interactive 3D learning game by AWS Training and Certification.
+
+What is AWS Cloud Quest?
+------------------------
+
+AWS Cloud Quest is a 3D role-playing game where learners complete missions to develop 
+practical cloud skills while building a virtual city.
+
+Sections
+--------
+
+- `Introduction <notes/01_introduction.rst>`_
+
+Resources
+---------
+
+- `AWS Cloud Quest <https://www.aws.training/Details/Curriculum?id=60685>`_
