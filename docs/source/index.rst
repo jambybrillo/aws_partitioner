@@ -11,14 +11,12 @@ Group 6
 - Melquisedic Miclat  
 - Henry Obrequi
 
-
 .. note::
 
-   This training resource has been prepared and is maintained by our group to support learning through **AWS Cloud Quest: Cloud 
-   Practitioner**.
+   This training resource has been prepared and is maintained by our group to support learning through 
+   **AWS Cloud Quest: Cloud Practitioner**. We actively update the content to reflect the latest AWS 
+   best practices and to ensure it remains accurate, helpful, and relevant for new learners.
 
-   We actively update the content to reflect the latest AWS best practices and to ensure it remains accurate, helpful, and relevant for 
-   new learners.
 
 Contents
 --------
