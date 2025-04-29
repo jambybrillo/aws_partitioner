@@ -20,5 +20,6 @@ Contents
    :maxdepth: 2
    :caption: Table of Contents
 
-   introduction/index
+   Introduction/index
+   Preparation Steps/index
 
