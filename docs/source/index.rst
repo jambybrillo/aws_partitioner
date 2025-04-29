@@ -1,15 +1,13 @@
 Welcome to AWS Cloud Quest: Cloud Practitioner Documentation!
 =============================================================
 
-**AWS Cloud Quest: Cloud Practitioner** is an interactive, role-playing learning game
-developed by Amazon Web Services (AWS) to help beginners and professionals
-learn the fundamentals of cloud computing.
+GROUP 6
+-------------
 
-It provides a gamified experience that covers core AWS concepts and services,
-leveraging hands-on activities in a virtual environment. Players complete quests,
-solve real-world business challenges, and gain cloud skills along the way.
-
-Check out the :doc:`overview` section for more details about how the game works and the learning outcomes.
+MEMBERS:   RAMEL G. MOGAR
+           JAMBY I. BRILLO
+           MELQUISEDIC MICLAT
+           HENRY OBREQUI
 
 .. note::
 
