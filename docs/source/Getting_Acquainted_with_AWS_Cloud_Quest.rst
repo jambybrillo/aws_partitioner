@@ -12,7 +12,7 @@ In this step, you will:
 2. Build a profile for your Cloud Citizen.
 
 Contents
---------
+
 
 - `scripts/register_and_check_system.sh`: Shell script to verify AWS CLI and connectivity.
 - `profiles/cloud_profile.json`: Sample user profile template.
@@ -21,7 +21,7 @@ Contents
 ---
 
 How to Use
---------
+
 
 1. Run the script to verify your system:
 
@@ -34,6 +34,6 @@ Contents
 
 .. toctree::
    :maxdepth: 2
-   :caption: Table of Contents
+   
 
    Register_and_test_the_system
