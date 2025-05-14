@@ -2,7 +2,6 @@
 
    <h1 class="center-title">Login to Amazon Account</h1>
 
-.. admonition:: Info
 
    There are four options for logging into AWS Training and Certification:
 
