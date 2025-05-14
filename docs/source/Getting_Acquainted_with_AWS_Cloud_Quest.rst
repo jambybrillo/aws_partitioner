@@ -21,5 +21,5 @@ Contents
    
 
    
-   Register and Test The System
+   Register and Test the System
 
