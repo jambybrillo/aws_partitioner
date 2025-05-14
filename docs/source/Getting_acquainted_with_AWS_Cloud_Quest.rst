@@ -20,9 +20,10 @@ In this step, you will:
 ## How to Use
 
 1. Run the script to verify your system:
-```bash
-bash scripts/register_and_check_system.sh
 
+   .. code-block:: bash
+
+      bash scripts/register_and_check_system.sh
 
 Contents
 --------
