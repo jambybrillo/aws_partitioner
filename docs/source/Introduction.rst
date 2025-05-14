@@ -31,7 +31,7 @@ By the end of the game, players will have the practical knowledge needed to purs
 
 ---
 
-.. note:: 
+.. note::
 
-AWS Cloud Quest is continuously updated to reflect the latest cloud technologies, making it an excellent tool for staying current with cloud practices.
+   AWS Cloud Quest is regularly updated to incorporate the latest advancements in cloud technologies. This makes it an excellent resource for staying up to date with current cloud practices.
 
