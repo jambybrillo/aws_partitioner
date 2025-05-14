@@ -21,7 +21,7 @@ Steps to Create an Amazon Account
 
 .. image:: pictures/image2.1.png
    :align: center
-   :width: 100px
+   :width: 200px
 
 3. Enter User name
 4. Enter Mobile number and Email address to connect
