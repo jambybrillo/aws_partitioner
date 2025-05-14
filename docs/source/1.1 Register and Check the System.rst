@@ -1,5 +1,6 @@
-Create an account on Amazon
-=============================
+.. raw:: html
+
+   <h1 class="center-title">Create an Account on Amazon</h1>
 
 .. note::
 
