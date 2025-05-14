@@ -3,7 +3,10 @@ INTRODUCTION
 
 **AWS Cloud Quest: Cloud Practitioner** is an interactive, educational game created by Amazon Web Services (AWS) designed to teach cloud computing fundamentals. The game uses a role-playing approach, where players take on the role of a character solving real-world business challenges with AWS cloud services.
 
-![AWS Cloud Quest]
+![AWS Cloud Quest].. 
+image:: pictures/amazon.png
+      :align: center
+      :width: 700px
 
 This game is ideal for beginners who want to get hands-on experience with AWS and gain foundational knowledge about cloud technologies. It provides a playful and engaging way to learn about cloud concepts while solving practical tasks and problems.
 
