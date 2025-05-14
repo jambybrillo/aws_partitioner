@@ -12,6 +12,11 @@ Steps to Create an Amazon Account
 ---------------------------------
 
 1. Visit https://www.amazon.com/
+
+.. image:: pictures/image1.png
+   :align: center
+   :width: 7000px
+
 2. Select Create a new Amazon account
 3. Enter User name
 4. Enter Mobile number and Email address to connect
