@@ -28,3 +28,10 @@ Content
 - **Login to AWS Cloud Quest: Cloud Practitioner**  
   Navigate to the official training page and log in using your AWS account credentials:  
   `https://www.aws.training/Details/Curriculum?id=60685`
+
+.. toctree::
+   :maxdepth: 2
+   
+
+   
+   1.1 Register and Check the System
