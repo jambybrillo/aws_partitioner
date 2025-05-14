@@ -1,6 +1,5 @@
-.. raw:: html
-
-   <h1 class="center-title">Login on Amazonaccount</h1>
+Login on Amazonaccount
+===============
 
 
 There are four options for logging into AWS Training and Certification:
