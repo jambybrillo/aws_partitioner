@@ -15,3 +15,11 @@ Contents
 - `scripts/register_and_check_system.sh`: Shell script to verify AWS CLI and connectivity.
 - `profiles/cloud_profile.json`: Sample user profile template.
 - `docs/index.rst`: Sphinx-compatible index file for Read the Docs.
+
+.. toctree::
+   :maxdepth: 2
+   
+
+   
+   Register and Test The System
+
