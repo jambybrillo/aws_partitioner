@@ -35,3 +35,4 @@ Content
 
    
    1.1 Register and Check the System
+   1.2 Login to Amazon account
