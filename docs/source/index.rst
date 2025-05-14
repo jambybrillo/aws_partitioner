@@ -25,7 +25,7 @@ Contents
    :maxdepth: 2
    :caption: Table of Contents
 
-   Introduction/index
-   Preparation Steps/index
-   Getting acquainted with AWS Cloud Quest/index
+   Introduction
+   Preparation Steps
+   Getting acquainted with AWS Cloud Quest
 
