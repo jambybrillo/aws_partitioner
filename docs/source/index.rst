@@ -27,5 +27,5 @@ Contents
 
    Introduction
    Preparation_Steps
-   Getting_acquainted_with_AWS_Cloud_Quest
+   Getting_Acquainted_with_AWS_Cloud_Quest
 
