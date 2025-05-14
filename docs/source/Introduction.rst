@@ -9,7 +9,7 @@ INTRODUCTION
 This game is ideal for beginners who want to get hands-on experience with AWS and gain foundational knowledge about cloud technologies. It provides a playful and engaging way to learn about cloud concepts while solving practical tasks and problems.
 
 Main Features:
---------------
+
 - **Interactive Learning**: Players complete quests and challenges that help reinforce AWS concepts.
 - **Core AWS Services**: Learn about essential AWS services like EC2, S3, Lambda, RDS, IAM, and more.
 - **Gamified Experience**: Enjoy the fun and immersive RPG-style game design.
@@ -18,7 +18,7 @@ Main Features:
 With AWS Cloud Quest, users will also be prepared for the **AWS Certified Cloud Practitioner** exam, which is a foundational-level certification in cloud computing.
 
 How It Works
--------------
+
 In the game, you’ll:
 1. Start by creating an AWS account.
 2. Complete quests related to AWS services and cloud concepts.
