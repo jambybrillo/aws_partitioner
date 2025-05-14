@@ -1,6 +1,6 @@
 
    <h1 class="center-title">Login to Amazon Account</h1>
-===============================================================
+
 
 There are four options for logging into AWS Training and Certification:
 
@@ -14,7 +14,7 @@ There are four options for logging into AWS Training and Certification:
    This lab uses the **Login with Amazon** method.
 
 Steps to Sign In to AWS Training and Certification
---------------------------------------------------
+
 
 1. Go to https://skillbuilder.aws/
 2. Click **SIGN IN TO AWS SKILL BUILDER**
