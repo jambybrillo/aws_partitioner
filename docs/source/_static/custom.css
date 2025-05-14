@@ -1,6 +1,24 @@
+/* Center title class for raw HTML */
 .center-title {
     text-align: center;
-    font-size: 32px;
+    font-size: 28px;
     font-weight: bold;
-    margin-bottom: 20px;
+    margin: 20px 0;
+}
+
+/* Custom style for Info admonitions */
+div.admonition.info {
+    background-color: #e6f4ff;
+    border-left: 4px solid #1e90ff;
+}
+
+div.admonition.info > .admonition-title {
+    font-weight: bold;
+    color: #1e90ff;
+}
+
+/* Optional tweak for built-in note */
+div.admonition.note {
+    background-color: #f0f8ff;
+    border-left: 4px solid #00aaff;
 }
