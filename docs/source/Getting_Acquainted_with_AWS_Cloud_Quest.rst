@@ -12,17 +12,6 @@ In this step, you will:
 2. Build a profile for your Cloud Citizen.
 
 
-How to Use
-
-
-1. Run the script to verify your system:
-
-   .. code-block:: bash
-
-      bash scripts/register_and_check_system.sh
-
-
-
 
 .. toctree::
    :maxdepth: 2
