@@ -27,4 +27,5 @@ Contents
 
    Introduction/index
    Preparation Steps/index
+   Getting acquainted with AWS Cloud Quest/index
 
