@@ -30,6 +30,11 @@ Steps to Create an Amazon Account
 5. Enter Password
 6. Enter Re-enter password
 7. Next, select Verify
+
+.. image:: pictures/image3.png
+   :align: center
+   :width: 220px
+
 8. New page appears, enter six-digit OTP in the space provided
 9. Select Create your Amazon account
 
