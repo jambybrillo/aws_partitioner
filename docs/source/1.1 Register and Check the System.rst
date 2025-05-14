@@ -38,6 +38,10 @@ Steps to Create an Amazon Account
 8. New page appears, enter six-digit OTP in the space provided
 9. Select Create your Amazon account
 
+.. image:: pictures/imager4.png
+   :align: center
+   :width: 200px
+
 
 .. note::
 
