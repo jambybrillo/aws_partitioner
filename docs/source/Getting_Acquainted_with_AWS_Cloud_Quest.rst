@@ -4,7 +4,7 @@ Getting Acquainted with AWS Cloud Quest
 This repository contains the first activity in the AWS Cloud Quest learning path.
 
 Overview
---------
+
 
 In this step, you will:
 
@@ -21,8 +21,8 @@ How to Use
 
       bash scripts/register_and_check_system.sh
 
-Contents
---------
+
+
 
 .. toctree::
    :maxdepth: 2
