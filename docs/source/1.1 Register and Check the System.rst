@@ -2,8 +2,7 @@
 
    <h1 class="center-title">Create an Account on Amazon</h1>
 
-.. note::
-
+.. admonition:: Info
    To log in, you must use an Amazon e-commerce account.
    If you don’t have one, you can create one by following these steps:
 
