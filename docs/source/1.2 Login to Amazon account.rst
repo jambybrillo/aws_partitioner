@@ -19,6 +19,5 @@ Steps to Sign In to AWS Training and Certification
 
 1. Go to https://skillbuilder.aws/
 2. Click **SIGN IN TO AWS SKILL BUILDER**
-3. Choose **Login with Amazon**
-4. Enter your Amazon account credentials
+
 
