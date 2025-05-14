@@ -31,5 +31,5 @@ Contents
    :maxdepth: 2
    :caption: Table of Contents
 
-   Register_and _test_the_system
+   Register_and_test_the_system
 
