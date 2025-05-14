@@ -1,27 +1,34 @@
-/* Center title class for raw HTML */
-.center-title {
-    text-align: center;
-    font-size: 28px;
-    font-weight: bold;
-    margin: 20px 0;
-}
+# Configuration file for the Sphinx documentation builder.
 
-/* Custom style for Info admonitions */
-div.admonition.info {
-    background-color: #e6f4ff;
-    border-left: 4px solid #1e90ff;
-}
+# -- Project information -----------------------------------------------------
+project = 'CC6L'
+copyright = '2025, BSIT3'
+author = 'Brillo Jamby, Mogar Ramel, Obrique Henry, Miclat Melquisedic'
+group = '6'
 
-div.admonition.info > .admonition-title {
-    font-weight: bold;
-    color: #1e90ff;
-}
+release = '0.1'
+version = '0.1.0'
 
-/* Optional tweak for built-in note */
-div.admonition.note {
-    background-color: #f0f8ff;
-    border-left: 4px solid #00aaff;
+# -- General configuration ---------------------------------------------------
+extensions = [
+    'sphinx.ext.duration',
+    'sphinx.ext.doctest',
+    'sphinx.ext.autodoc',
+    'sphinx.ext.autosummary',
+    'sphinx.ext.intersphinx',
+]
+
+intersphinx_mapping = {
+    'python': ('https://docs.python.org/3/', None),
+    'sphinx': ('https://www.sphinx-doc.org/en/master/', None),
 }
+intersphinx_disabled_domains = ['std']
+
+templates_path = ['_templates']
+exclude_patterns = []
+
+# -- Options for HTML output -------------------------------------------------
+html_theme = 'sphinx_rtd_theme'
 html_static_path = ['_static']
 html_css_files = ['custom.css']
 
