@@ -28,4 +28,3 @@ Contents
    Introduction
    Preparation_Steps
    Getting_Acquainted_with_AWS_Cloud_Quest
-
