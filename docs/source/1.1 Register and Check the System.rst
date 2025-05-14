@@ -15,7 +15,7 @@ Steps to Create an Amazon Account
 
 .. image:: pictures/image1.png
    :align: center
-   :width: 800px
+   :width: 7000px
 
 2. Select Create a new Amazon account
 
