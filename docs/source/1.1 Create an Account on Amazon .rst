@@ -1,6 +1,5 @@
-.. raw:: html
-
-   <h1 class="center-title">Create an Account on Amazon</h1>
+Create an Account on Amazon
+=====================
 
 .. admonition:: Info
 
