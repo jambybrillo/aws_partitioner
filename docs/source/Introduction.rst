@@ -5,7 +5,7 @@ INTRODUCTION
 
 .. image:: pictures/amazon.png
    :align: center
-   :width: 700px
+   :width: 7000px
 This game is ideal for beginners who want to get hands-on experience with AWS and gain foundational knowledge about cloud technologies. It provides a playful and engaging way to learn about cloud concepts while solving practical tasks and problems.
 
 Main Features:
