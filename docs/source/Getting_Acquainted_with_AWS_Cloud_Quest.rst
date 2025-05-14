@@ -20,7 +20,8 @@ Contents
 
 ---
 
-## How to Use
+How to Use
+--------
 
 1. Run the script to verify your system:
 
