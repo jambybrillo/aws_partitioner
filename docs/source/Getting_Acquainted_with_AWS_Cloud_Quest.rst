@@ -1,15 +1,18 @@
-# Getting Acquainted with AWS Cloud Quest
+Getting Acquainted with AWS Cloud Quest
+=====================
 
 This repository contains the first activity in the AWS Cloud Quest learning path.
 
-## Overview
+Overview
+--------
 
 In this step, you will:
 
 1. Register and check your system.
 2. Build a profile for your Cloud Citizen.
 
-## Contents
+Contents
+--------
 
 - `scripts/register_and_check_system.sh`: Shell script to verify AWS CLI and connectivity.
 - `profiles/cloud_profile.json`: Sample user profile template.
