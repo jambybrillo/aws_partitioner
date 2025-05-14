@@ -3,11 +3,13 @@
    <h1 class="center-title">Create an Account on Amazon</h1>
 
 .. admonition:: Info
+
    To log in, you must use an Amazon e-commerce account.
-   If you don’t have one, you can create one by following these steps:
+   If you don’t have one, follow the steps below.
 
 
 Steps to Create an Amazon Account
+---------------------------------
 
-1. Open the **Amazon** app or go to the official website: https://www.amazon.com/
+1. Visit https://www.amazon.com/
 
