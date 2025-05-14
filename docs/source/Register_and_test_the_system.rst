@@ -1,4 +1,4 @@
-Getting Acquainted with AWS Cloud Quest
+Register And Test The System
 =======================================
 
 Overview
