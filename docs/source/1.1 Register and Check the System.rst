@@ -1,0 +1,32 @@
+Register and Check the System
+=============================
+
+To begin using AWS Cloud Quest, you need to log in using an Amazon e-commerce account.
+
+If you don’t have an account yet, you can create one by following the steps below.
+
+Create an Account on Amazon
+
+
+To log in, you must use an Amazon e-commerce account. If you don’t have one, follow these steps:
+
+Steps to Create an Amazon Account
+
+
+1. Open the **Amazon** app or go to the official website: https://www.amazon.com/
+2. Click on the **Account & Lists** menu in the top-right corner.
+3. Click on **Start here** next to "New customer?".
+4. Fill in the required fields:
+   - Your name
+   - Email address
+   - Password
+   - Confirm password
+5. Click **Create your Amazon account**.
+6. Complete any additional verification steps if prompted (such as CAPTCHA or OTP).
+
+Once your account is created, use it to log in to **AWS Cloud Quest**.
+
+Next Step
+
+
+Now that you have your Amazon account, continue to explore the AWS Cloud Quest dashboard and set up your **Cloud Citizen profile**.
