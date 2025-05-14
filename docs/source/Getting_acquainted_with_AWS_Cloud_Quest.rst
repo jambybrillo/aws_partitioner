@@ -22,3 +22,14 @@ In this step, you will:
 1. Run the script to verify your system:
 ```bash
 bash scripts/register_and_check_system.sh
+
+
+Contents
+--------
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Table of Contents
+
+   Register_and _test_the_system
+
