@@ -22,6 +22,6 @@ Contents
    
 
    
-   3.1_register_and_test_the_system
+   register_and_test_the_system
    
 
