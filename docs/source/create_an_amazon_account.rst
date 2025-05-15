@@ -1,4 +1,4 @@
-Create an Account on Amazon
+Create an account on Amazon
 ============
 
 .. admonition:: Info
