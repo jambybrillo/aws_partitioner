@@ -29,3 +29,4 @@ Contents
    introduction
    preparation_steps
    getting_acquainted_with_aws_cloud_quest
+   a1_static_web_hosting
