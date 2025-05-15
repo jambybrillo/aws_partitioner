@@ -26,5 +26,5 @@ Contents
    :caption: Table of Contents
    :numbered:
 
-   introduction
+   introduction/index
    preparation/index
