@@ -1,19 +1,29 @@
-A3 - Connect to an EC2 Instance
-Lab #3 of AWS Cloud Quest: Cloud Practitioner is Connect to an EC2 Instance
+ A3 - Connect to an EC2 Instance
+**Lab #3 of AWS Cloud Quest: Cloud Practitioner**  
+**Title:** Connect to an EC2 Instance
 
-After receiving the Assignment 2 award, continue to perform the following steps to perform Assignment 3
+---
 
-In ASSIGNMENT, select ROUTE AND GO
-EC2 Connect
+🏆 After completing Assignment 2:
+Continue with the following steps to complete Assignment 3.
 
-Select NEXT
-EC2 Connect
+---
 
-Read Computing Solutions and select ACCEPT
-EC2 Connect
+ ✅ Step-by-Step Instructions
 
-Select GO TO SOLUTION CENTER
-EC2 Connect
+1. In **ASSIGNMENT**, select **ROUTE AND GO**  
+   → _EC2 Connect_
 
-Getting Started Learn
-EC2 Connect
+2. Select **NEXT**  
+   → _EC2 Connect_
+
+3. Read **Computing Solutions** and select **ACCEPT**  
+   → _EC2 Connect_
+
+4. Select **GO TO SOLUTION CENTER**  
+   → _EC2 Connect_
+
+5. In **Getting Started**, select **Learn**  
+   → _EC2 Connect_
+
+
