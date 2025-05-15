@@ -1,4 +1,4 @@
-BUILD PROFILE
+Build Profile
 ================
 
 After the city interface appears, we build the player profile
