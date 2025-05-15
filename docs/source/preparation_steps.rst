@@ -34,5 +34,5 @@ Content
    :numbered:
    
 
-   1.1 Create an Amazon account
-   1.2 Login to Amazon account
+   create_an_amazon_account
+   login_to_amazon_account
