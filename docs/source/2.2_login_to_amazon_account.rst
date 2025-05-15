@@ -1,4 +1,4 @@
-2.2 Login on Amazon account
+Login on Amazon account
 ===============
 
 
