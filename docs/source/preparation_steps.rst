@@ -34,5 +34,5 @@ Content
    :numbered:
    
 
-   create_an_amazon_account
-   login_to_amazon_account
+   prepation_steps/create_an_amazon_account
+   prepation_steps/login_to_amazon_account
