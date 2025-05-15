@@ -4,7 +4,8 @@
    :numbered:
 
 
-   preparation
+   preparation_steps
+   create_an_amazon_account
 
 
 
