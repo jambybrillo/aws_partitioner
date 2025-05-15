@@ -1,6 +1,6 @@
-.. raw:: html
+Create an Account on Amazon
+============
 
-   <h1 style="text-align: center;">Create an Account on Amazon</h1>
 .. admonition:: Info
 
    To log in, you must use an Amazon e-commerce account.
