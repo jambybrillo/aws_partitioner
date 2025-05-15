@@ -28,7 +28,7 @@ Content
 
 .. toctree::
    :maxdepth: 1
-   :numbered:
+   
 
    create_an_amazon_account
    login_to_amazon_account
