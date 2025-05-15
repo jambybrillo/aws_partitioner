@@ -31,6 +31,7 @@ Content
 
 .. toctree::
    :maxdepth: 2
+   :numbered:
    
 
    1.1 Create an Amazon account
