@@ -3,7 +3,6 @@ Login on Amazon account
 
 
 There are four options for logging into AWS Training and Certification:
--------------
 
 - Login with Amazon  
 - AWS Partner  
