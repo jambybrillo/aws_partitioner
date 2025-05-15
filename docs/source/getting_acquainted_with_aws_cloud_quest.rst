@@ -17,7 +17,7 @@ Contents
 - `docs/index.rst`: Sphinx-compatible index file for Read the Docs.
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :numbered:
    
 
