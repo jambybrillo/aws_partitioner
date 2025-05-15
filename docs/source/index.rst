@@ -26,6 +26,6 @@ Contents
    :caption: Table of Contents
    :numbered:
 
-   Introduction
-   Preparation_Steps
-   Getting_Acquainted_with_AWS_Cloud_Quest
+   introduction
+   preparation_steps
+   getting_acquainted_with_aws_cloud_quest
