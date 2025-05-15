@@ -1,4 +1,4 @@
-Getting Acquainted with AWS Cloud Quest
+GETTING ACQUAINTED WITH AWS CLOUD QUEST
 ================
 
 This repository contains the first activity in the AWS Cloud Quest learning path.
