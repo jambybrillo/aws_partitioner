@@ -27,5 +27,5 @@ Contents
    :numbered:
 
    introduction
-   preparation_steps
+   preparation_steps/index.rst
    getting_acquainted_with_aws_cloud_quest
