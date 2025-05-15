@@ -30,7 +30,7 @@ Content
   `https://www.aws.training/Details/Curriculum?id=60685`
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    :numbered:
    
 
