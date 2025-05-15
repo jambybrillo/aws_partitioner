@@ -23,5 +23,6 @@ Contents
 
    
    register_and_test_the_system
+   build_profile
    
 
