@@ -1,4 +1,4 @@
-Register And Test The System
+Register and test the System
 =======================================
 
 
