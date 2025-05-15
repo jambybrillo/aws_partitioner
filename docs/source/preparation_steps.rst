@@ -34,5 +34,5 @@ Content
    :numbered:
    
 
-   2.1_create_an_amazon_account
-   2.2_login_to_amazon_account
+   create_an_amazon_account
+   login_to_amazon_account
