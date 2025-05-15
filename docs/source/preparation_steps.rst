@@ -2,12 +2,10 @@ Preparation Steps
 =================
 
 Overview
---------
 
 To participate in **AWS Cloud Quest: Cloud Practitioner**, you need to complete a few setup steps and ensure your system meets the minimum requirements.
 
 Requirements
-------------
 
 - **Amazon Account**: An active AWS account is required to access AWS Cloud Quest.
 - **System Requirements**:
@@ -20,7 +18,7 @@ Requirements
   - **Mobile browsers are not supported**
 
 Content
--------
+
 
 - **Create Amazon Account**  
   Visit https://aws.amazon.com and sign up.
