@@ -33,5 +33,5 @@ Content
    :maxdepth: 2
    
 
-   1.1 Create an Account on Amazon
+   1.1 Create an Amazon account
    1.2 Login to Amazon account
