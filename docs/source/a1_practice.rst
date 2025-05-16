@@ -96,8 +96,8 @@ Practice
 
 10. In the **Create bucket** interface:
 
-   - **Bucket name**, enter ``lab-unique-name-1``
-   - **AWS Region**, enter **US East (N. Virginia)** ``us-east-1``
+- **Bucket name**, enter ``lab-unique-name-1``
+- **AWS Region**, enter **US East (N. Virginia)** ``us-east-1``
 
 .. note::
 
