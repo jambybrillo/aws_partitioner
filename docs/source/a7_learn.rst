@@ -14,3 +14,8 @@ LEARN
 .. image:: pictures/0a7-learn.png
    :align: center
    :width: 7000px
+
+2. In the VIDEO CONCEPTS interface
+
+- Watch video Amazon RDS Overview
+- Select X to exit
