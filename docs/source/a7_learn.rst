@@ -11,6 +11,6 @@ LEARN
 - Read step 1 of Diagram Steps
 - Select Amazon RDS Overview
 
-.. image:: pictures/amazon.png
+.. image:: pictures/0a7-learn.png
    :align: center
    :width: 7000px
