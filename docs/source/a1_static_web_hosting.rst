@@ -61,14 +61,16 @@ In this step we will take the first challenge in **Cloud Quest**.
    :width: 7000px
 
 
-.. toctree::
-   :maxdepth: 1
-   
-
-   a1_learn
-
 7. Steps of Solution Center Steps.
 
 .. image:: pictures/image30.png
    :align: center
    :width: 7000px
+
+
+.. toctree::
+   :maxdepth: 1
+   
+
+   a1_learn
+   a1_plan
