@@ -75,3 +75,4 @@ In this step we will take the first challenge in **Cloud Quest**.
    a1_learn
    a1_plan
    a1_practice
+   a1_diy
