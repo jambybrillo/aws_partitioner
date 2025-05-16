@@ -19,3 +19,9 @@ LEARN
 
 - Watch video Amazon RDS Overview
 - Select X to exit
+
+
+.. image:: pictures/a7-learn.png
+   :align: center
+   :width: 7000px
+
