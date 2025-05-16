@@ -1,4 +1,4 @@
-LEARN
+Learn
 ===========
 
 .. admonition:: Info
