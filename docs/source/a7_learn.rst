@@ -59,7 +59,7 @@ LEARN
 - Select Amazon RDS - Availability & Durability
 
 
-.. image:: pictures/000-learn7.png
+.. image:: pictures/0005-learn7.png
    :align: center
    :width: 7000px
 
