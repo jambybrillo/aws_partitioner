@@ -132,7 +132,7 @@ DIY
 
 .. image:: pictures/imagec16.png
    :align: center
-   :width: 7000px
+   :width: 1000px
 
 
 17. After selecting **VALIDATE**, if **VALIDATION MESSAGE** contains **Success!** … is complete.
