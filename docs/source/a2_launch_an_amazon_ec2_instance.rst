@@ -5,9 +5,11 @@ A2 - LAUNCH AN AMAZON EC2 INSTANCE
 Lab #2 of **AWS Cloud Quest: Cloud Practitioner is Launch one EC2 instance**.
 
 
-.. toctree::
-   :maxdepth: 1
-   
+
+.. admonition:: Info
+
+  Learn helps players to understand more theory about
+
 
    After receiving the Assignment 1 award, continue to perform the following steps to perform Assignment 2
 
