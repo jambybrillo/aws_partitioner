@@ -27,3 +27,13 @@ LEARN
    :align: center
    :width: 7000px
 
+
+
+3.In the Learn interface
+
+- Read step 2 of Diagram Steps
+- Select Amazon RDS - Lower Admin Burden Performance
+
+
+
+
