@@ -7,11 +7,8 @@ Lab #2 of **AWS Cloud Quest: Cloud Practitioner is Launch one EC2 instance**.
 
 
 .. admonition:: Info
-
-  Learn helps players to understand more theory about
-
-
-   After receiving the Assignment 1 award, continue to perform the following steps to perform Assignment 2
+  
+  After receiving the Assignment 1 award, continue to perform the following steps to perform Assignment 2
 
 
 1. Go to **ASSIGNMENTS**, under **Cloud First Steps**, select **ROUTE AND GO**.
