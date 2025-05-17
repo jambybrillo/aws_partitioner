@@ -66,4 +66,18 @@ LEARN
 
 
 
+6.In the VIDEO CONCEPT interface
+
+- Watch video Amazon RDS - Availability & Durability
+- Select X to exit
+
+
+.. image:: pictures/000-learn7.png
+   :align: center
+   :width: 7000px
+
+
+
+
+
 
