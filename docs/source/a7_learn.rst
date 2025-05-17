@@ -55,6 +55,7 @@ LEARN
 
 
 5.In the Learn interface
+
 - Read step 3 of Diagram Steps
 - Select Amazon RDS - Availability & Durability
 
