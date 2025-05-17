@@ -50,6 +50,7 @@ Lab #2 of **AWS Cloud Quest: Cloud Practitioner is Launch one EC2 instance**.
    a2_learn
    a2_plan
    a2_practice
+   a2_diy
 
 
 
