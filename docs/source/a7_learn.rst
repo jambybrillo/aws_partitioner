@@ -96,7 +96,7 @@ LEARN
 - Select X to exit
 
 
-.. image:: pictures/000-learn7.png
+.. image:: pictures/0008-learn7.png
    :align: center
    :width: 7000px
 
