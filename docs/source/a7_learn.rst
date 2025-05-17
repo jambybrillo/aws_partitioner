@@ -48,7 +48,7 @@ LEARN
 
 
 
-.. image:: pictures/.png
+.. image:: pictures/0004-learn7.png
    :align: center
    :width: 7000px
 
