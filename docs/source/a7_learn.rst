@@ -78,6 +78,19 @@ LEARN
 
 
 
+7.In the Learn interface
+
+- Read step 4 of Diagram Steps
+- Select Amazon RDS - Availability & Durability
+
+
+.. image:: pictures/000-learn7.png
+   :align: center
+   :width: 7000px
+
+
+
+
 
 
 
