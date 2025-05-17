@@ -83,10 +83,6 @@ DIY
 
 10. In **Add Tags**, select **Next: Configure Security Group**.
 
-.. image:: pictures/imagec10.png
-   :align: center
-   :width: 7000px
-
 11. In **Configure Security Group**, create a security group.
 
 - **Security group name**, enter ``Security-Group-Lab-2``
