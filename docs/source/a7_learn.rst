@@ -41,6 +41,16 @@ LEARN
 
 
 
+4.In the VIDEO CONCEPTS interface
+
+- Watch the video Amazon RDS - Lower Admin Burden Performance
+- Select X to exit
+
+
+
+.. image:: pictures/.png
+   :align: center
+   :width: 7000px
 
 
 
