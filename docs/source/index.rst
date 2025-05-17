@@ -31,4 +31,5 @@ Contents
    getting_acquainted_with_aws_cloud_quest
    a1_static_web_hosting
    a2_launch_an_amazon_ec2_instance
+   a3_connect_to_an_ec2_instance
    a7_database
