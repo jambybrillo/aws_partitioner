@@ -102,6 +102,36 @@ LEARN
 
 
 
+9.In the Learn interface
+
+- Read step 5 of Diagram Steps
+- Select Amazon RDS - Scalability
+
+
+.. image:: pictures/0009-learn7.png
+   :align: center
+   :width: 7000px
+
+
+
+10.In the VIDEO CONCEPT interface
+
+- In the VIDEO CONCEPT interface
+- Select X to exit
+
+
+.. image:: pictures/00010-learn7.png
+   :align: center
+   :width: 7000px
+
+
+
+
+
+
+
+
+
 
 
 
