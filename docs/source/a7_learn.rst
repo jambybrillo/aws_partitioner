@@ -35,5 +35,12 @@ LEARN
 - Select Amazon RDS - Lower Admin Burden Performance
 
 
+.. image:: pictures/0003-learn7.png
+   :align: center
+   :width: 7000px
+
+
+
+
 
 
