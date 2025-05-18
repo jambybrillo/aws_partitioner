@@ -244,6 +244,215 @@ PRACTICE
    :width: 7000px
 
 
+21. In the Add user interface
+
+- See successful user initialization
+- Choose the login path
+- Select Close
+
+
+.. image:: pictures/00021-practice8.png
+   :align: center
+   :width: 7000px
+
+
+22. In the Practice interface
+
+- Read step 12 of Core Security Concepts
+- Select the arrow to the right to see the next steps
+
+
+.. image:: pictures/00022-practice8.png
+   :align: center
+   :width: 7000px
+
+
+23. In the login interface
+
+- Enter Account ID
+- Enter IAM user name
+- Enter Password
+- Select Sign in
+
+
+.. image:: pictures/00023-practice8.png
+   :align: center
+   :width: 7000px
+
+
+24. Successful login interface
+
+
+.. image:: pictures/00024-practice8.png
+   :align: center
+   :width: 7000px
+
+
+25. In the Practice interface
+
+- Read step 13 of Core Security Concepts
+- Read CONCEPT
+- Select the arrow to the right to see the next steps
+
+
+.. image:: pictures/00025-practice8.png
+   :align: center
+   :width: 7000px
+
+
+26. In the AWS Console interface
+
+- Find EC2
+- Select EC2
+
+
+.. image:: pictures/00026-practice8.png
+   :align: center
+   :width: 7000px
+
+
+27. In the Practice interface
+
+- Read step 14 of Core Security Concepts
+- Select the arrow to the right to see the next steps
+
+
+.. image:: pictures/00027-practice8.png
+   :align: center
+   :width: 7000px
+
+
+28. In the AWS Console interface
+
+- Select Region N. Virginia
+
+
+.. image:: pictures/00028-practice8.png
+   :align: center
+   :width: 7000px
+
+
+29. In the Practice interface
+
+- Read step 15 of Core Security Concepts
+- Read CONCEPT
+- Select the arrow to the right to see the next steps
+
+
+.. image:: pictures/00029-practice8.png
+   :align: center
+   :width: 7000px
+
+
+30. In the EC2 interface
+
+- Select Instances (running)
+
+
+.. image:: pictures/00030-practice8.png
+   :align: center
+   :width: 7000px
+
+
+31. In the Practice interface
+
+- Read step 16 of Core Security Concepts
+- Read CONCEPT
+- Select the arrow to the right to see the next steps
+
+
+.. image:: pictures/00031-practice8.png
+   :align: center
+   :width: 7000px
+
+
+32. In the EC2 interface
+
+- Select Web Server
+- Select Instance state
+- Select Terminate instance
+
+
+.. image:: pictures/00032-practice8.png
+   :align: center
+   :width: 7000px
+
+
+33. In the Practice interface
+
+- Read step 17 of Core Security Concepts
+- Select the arrow to the right to see the next steps
+
+
+.. image:: pictures/00033-practice8.png
+   :align: center
+   :width: 7000px
+
+
+34. In the EC2 interface
+
+- In Terminate instance, select Terminate
+
+
+.. image:: pictures/00034-practice8.png
+   :align: center
+   :width: 7000px
+
+
+35. In the Practice interface
+
+- Read step 18 of Core Security Concepts
+- Read CONCEPT
+- Select the arrow to the right to see the next steps
+
+
+.. image:: pictures/00035-practice8.png
+   :align: center
+   :width: 7000px
+
+
+36. Lab results
+
+
+.. image:: pictures/00036-practice8.png
+   :align: center
+   :width: 7000px
+
+
+37. Congratulations to the player on completing the lab
+
+
+.. image:: pictures/00037-practice8.png
+   :align: center
+   :width: 7000px
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
