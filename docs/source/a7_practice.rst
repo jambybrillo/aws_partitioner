@@ -19,4 +19,25 @@ PRACTICE
    :width: 7000px
 
 
+2. In the Learn interface
+
+- Read step 2 of Database in Practice
+- Read CONCEPT
+- Select Open AWS Console
+
+
+.. image:: pictures/0002-practice7.png
+   :align: center
+   :width: 7000px
+
+
+3. In the AWS Console interface
+
+- Find RDS
+- Select RDS
+
+
+.. image:: pictures/0003-practice7.png
+   :align: center
+   :width: 7000px
 
