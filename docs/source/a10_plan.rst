@@ -13,5 +13,11 @@ PLAN
 - Select Practice to perform the lab
 
 
+.. image:: pictures/0001-plan10.png
+   :align: center
+   :width: 7000px
+
+
+
 
 
