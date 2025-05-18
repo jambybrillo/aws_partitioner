@@ -13,4 +13,6 @@ AWS Cloud Quest: Cloud Practitioner’s 10th lab is Creating and Querying an Ama
 - Select !
 
 
-
+.. image:: pictures/0001-nosqldatabase9.png
+   :align: center
+   :width: 7000px
