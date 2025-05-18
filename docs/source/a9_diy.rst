@@ -11,3 +11,8 @@ DIY
 - Find EC2
 - Select EC2
 
+
+.. image:: pictures/0001-diy9.png
+   :align: center
+   :width: 7000px
+
