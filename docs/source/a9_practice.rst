@@ -12,3 +12,9 @@ PRACTICE
 - Read CONCEPT
 - Select START LAB
 - Select the arrow to the right to see the next steps
+
+
+.. image:: pictures/0001-practice9.png
+   :align: center
+   :width: 7000px
+
