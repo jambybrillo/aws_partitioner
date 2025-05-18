@@ -10,3 +10,7 @@ LEARN
 
 - Select Amazon EFS Overview
 
+
+.. image:: pictures/0001-learn9.png
+   :align: center
+   :width: 7000px
