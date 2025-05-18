@@ -11,7 +11,7 @@ LEARN
 - Select NoSQL
 
 
-.. image:: pictures/0001-nosqldatabase10.png
+.. image:: pictures/0001-learn10.png
    :align: center
    :width: 7000px
 
