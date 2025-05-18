@@ -1,4 +1,4 @@
-PLAN
+PRACTICE
 ========
 
 .. admonition:: Info
@@ -12,3 +12,6 @@ PLAN
 - Read CONCEPT
 - Select START LAB
 - Select the arrow to the right to see the next steps
+
+
+
