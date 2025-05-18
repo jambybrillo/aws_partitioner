@@ -14,7 +14,7 @@ PRACTICE
 - Select the arrow to the right to see the next steps
 
 
-.. image:: pictures/0001-practice7 - Copy.png
+.. image:: pictures/0001-practice7.png
    :align: center
    :width: 7000px
 
