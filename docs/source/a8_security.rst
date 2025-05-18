@@ -13,3 +13,8 @@ AWS Cloud Quest: Cloud Practitioner’s 8th lab is Defining Usr and Group Permis
 - Choose the icon !
 
 
+.. image:: pictures/0001-security8.png
+   :align: center
+   :width: 7000px
+
+
