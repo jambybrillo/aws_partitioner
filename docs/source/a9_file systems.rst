@@ -11,3 +11,7 @@ Lab number 9 of AWS Cloud Quest: Cloud Practitioner is File System in the Cloud 
 - Select ASSIGNMENTS
 - Select ROUTE AND GO
 
+
+.. image:: pictures/0001-filesystems.png
+   :align: center
+   :width: 7000px
