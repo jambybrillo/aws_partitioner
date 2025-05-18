@@ -13,3 +13,8 @@ DIY
 - Select Create table
 
 
+.. image:: pictures/0001-diy10.png
+   :align: center
+   :width: 7000px
+
+
