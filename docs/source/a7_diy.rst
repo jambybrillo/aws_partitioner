@@ -11,7 +11,9 @@ DIY
 - Read SOLUTION VALIDATION METHOD
 
 
-
+.. image:: pictures/imagep1.png
+   :align: center
+   :width: 7000px
 
 
 
