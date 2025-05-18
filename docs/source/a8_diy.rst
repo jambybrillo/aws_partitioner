@@ -12,5 +12,10 @@ DIY
 - Select IAM
 
 
+.. image:: pictures/0001-diy8.png
+   :align: center
+   :width: 7000px
+
+
 
 
