@@ -13,7 +13,7 @@ PLAN
 - Select Practice to perform the 
 
 
-.. image:: pictures/0a-learn.png
+.. image:: pictures/0001-plan7.png
    :align: center
    :width: 7000px
 
