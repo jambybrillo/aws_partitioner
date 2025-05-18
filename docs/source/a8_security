@@ -1,1 +1,15 @@
+A8 - SECURITY
+============
 
+**Overview**
+
+AWS Cloud Quest: Cloud Practitioner’s 8th lab is Defining Usr and Group Permissions using IAM Policies
+
+
+
+.. toctree::
+   :maxdepth: 1
+   
+
+   a7_learn
+   a7_plan
