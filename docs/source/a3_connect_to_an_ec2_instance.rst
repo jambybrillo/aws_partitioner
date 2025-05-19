@@ -40,3 +40,12 @@ Lab #3 of **AWS Cloud Quest: Cloud Practitioner**
    :width: 7000px
 
 
+.. toctree::
+   :maxdepth: 1
+   
+
+   a3_learn
+   a3_plan
+   a3_practice
+   a3_diy
+
