@@ -14,4 +14,6 @@ Lab #7 of AWS Cloud Quest: Cloud Practitioner is Lauching an Amazon RDS Database
 
    a7_learn
    a7_plan
+   a7_practice
+   a7_diy
 
