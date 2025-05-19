@@ -48,6 +48,16 @@ AWS Cloud Quest: Cloud Practitioner’s 8th lab is Defining Usr and Group Permis
    :width: 7000px
 
 
+.. toctree::
+   :maxdepth: 1
+   
+
+   a8_learn
+   a8_plan
+   a8_practice
+   a8_diy
+
+
 
 
 
