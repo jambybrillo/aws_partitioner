@@ -1,4 +1,4 @@
-PRACTICE
+Practice
 ========
 
 .. admonition:: Info
