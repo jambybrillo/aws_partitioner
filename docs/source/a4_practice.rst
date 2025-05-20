@@ -47,7 +47,7 @@ Practice
 - Read step 3 of Networking Concepts
 - Select the arrow to the right to see the next steps
 
-.. image:: pictures/a420.png
+.. image:: pictures/a421.png
    :align: center
    :width: 7000px
 
@@ -56,7 +56,7 @@ Practice
 - Select Instances
 
 
-.. image:: pictures/a421.png
+.. image:: pictures/a422.png
    :align: center
    :width: 7000px
 
@@ -66,7 +66,7 @@ Practice
 - Read step 4 Networking Concepts
 - Select the arrow to the right to see the next steps
 
-.. image:: pictures/a422.png
+.. image:: pictures/a423.png
    :align: center
    :width: 7000px
 
@@ -75,7 +75,7 @@ Practice
 - Select Web Server instance
 - Copy Public IPv4 address
 
-.. image:: pictures/a423.png
+.. image:: pictures/a424.png
    :align: center
    :width: 7000px
 
@@ -84,7 +84,7 @@ Practice
 - Read step 5 Networking Concepts
 - Select the right arrow to see the next steps
 
-.. image:: pictures/a424.png
+.. image:: pictures/a425.png
    :align: center
    :width: 7000px
 
@@ -93,7 +93,7 @@ Practice
 - Paste Public Ipv4 address and browser
 - View returned results
 
-.. image:: pictures/a425.png
+.. image:: pictures/a426.png
    :align: center
    :width: 7000px
 
@@ -103,7 +103,7 @@ Practice
 - Read CONCEPT
 - Select the arrow to the right to see the next step
 
-.. image:: pictures/a426.png
+.. image:: pictures/a427.png
    :align: center
    :width: 7000px
 
@@ -113,7 +113,7 @@ Practice
 - Select Networking
 - In Networking details, see details Public IPv4 address and Private IPv4 addressses
 
-.. image:: pictures/a427.png
+.. image:: pictures/a428.png
    :align: center
    :width: 7000px
 
@@ -123,7 +123,7 @@ Practice
 - Read CONCEPT
 - Select the right arrow to see the next steps
 
-.. image:: pictures/a428.png
+.. image:: pictures/a429.png
    :align: center
    :width: 7000px
 
@@ -133,7 +133,7 @@ Practice
 - Select Networking
 - Select Subnet ID
 
-.. image:: pictures/a429.png
+.. image:: pictures/a430.png
    :align: center
    :width: 7000px
 
@@ -143,7 +143,7 @@ Practice
 - Read CONCEPT
 - Select the right arrow to see the next steps
 
-.. image:: pictures/a430.png
+.. image:: pictures/a431.png
    :align: center
    :width: 7000px
   
@@ -153,7 +153,7 @@ Practice
 - Select Route table
 - Choose the name Route table
 
-.. image:: pictures/a431.png
+.. image:: pictures/a432.png
    :align: center
    :width: 7000px
 
@@ -163,7 +163,7 @@ Practice
 - Read CONCEPT
 - Select the right arrow to see the next steps
 
-.. image:: pictures/a432.png
+.. image:: pictures/a433.png
    :align: center
    :width: 7000px
 
@@ -174,7 +174,7 @@ Practice
 - View details about Routes
 - Select Edit routes
 
-.. image:: pictures/a433.png
+.. image:: pictures/a434.png
    :align: center
    :width: 7000px
 
@@ -184,7 +184,7 @@ Practice
 - Read CONCEPT
 - Select the right arrow to see the next steps
 
-.. image:: pictures/a434.png
+.. image:: pictures/a435.png
    :align: center
    :width: 7000px
 20. In the Edit routes interface.
@@ -193,7 +193,7 @@ Practice
 - Select Remove
 
 
-.. image:: pictures/a435.png
+.. image:: pictures/a436.png
    :align: center
    :width: 1000px
 
@@ -203,7 +203,7 @@ Practice
 - Read CONCEPT
 - Select the right arrow to see the next steps
 
-.. image:: pictures/a436.png
+.. image:: pictures/a437.png
    :align: center
    :width: 7000px
 
@@ -215,9 +215,9 @@ Practice
 - Select igw-xxxxxxx(network-concepts/VPC)
 - Select Save changes
 
-.. image:: pictures/a437.png
+.. image:: pictures/a438.png
    :align: center
-   :width: 7000px
+   :width: 1000px
 
 23. In the Practice interface.
 
@@ -225,7 +225,7 @@ Practice
 - Read CONCEPT
 - Select the right arrow to see the next steps
 
-.. image:: pictures/a438.png
+.. image:: pictures/a439.png
    :align: center
    :width: 7000px
 
@@ -234,7 +234,7 @@ Practice
 - View details Route table
 - Select Services
 
-.. image:: pictures/a439.png
+.. image:: pictures/a440.png
    :align: center
    :width: 7000px
 
@@ -243,7 +243,7 @@ Practice
 - Read step 13 of Networking Concepts
 - Select the right arrow to see the next steps
 
-.. image:: pictures/a440.png
+.. image:: pictures/a441.png
    :align: center
    :width: 7000px
 
@@ -253,7 +253,7 @@ Practice
 - Select Security
 - Select Security group
 
-.. image:: pictures/a441.png
+.. image:: pictures/a442.png
    :align: center
    :width: 7000px
 
@@ -263,7 +263,7 @@ Practice
 - Read CONCEPT
 - Select the right arrow to see the next steps
 
-.. image:: pictures/a442.png
+.. image:: pictures/a443.png
    :align: center
    :width: 7000px
 
@@ -271,7 +271,7 @@ Practice
 
 - Select Edit inbound rules
 
-.. image:: pictures/a443.png
+.. image:: pictures/a444.png
    :align: center
    :width: 7000px
 
@@ -281,7 +281,7 @@ Practice
 - Read CONCEPT
 - Select the right arrow to see the next steps
 
-.. image:: pictures/a444.png
+.. image:: pictures/a445.png
    :align: center
    :width: 7000px
 
@@ -289,9 +289,9 @@ Practice
 
 - Select Add rule
 
-.. image:: pictures/a445.png
+.. image:: pictures/a446.png
    :align: center
-   :width: 7000px
+   :width: 1000px
 
 31. In the Practice interface.
 
@@ -299,7 +299,7 @@ Practice
 - Read CONCEPT
 - Select the right arrow to see the next steps
 
-.. image:: pictures/a446.png
+.. image:: pictures/a447.png
    :align: center
    :width: 7000px
 
@@ -309,9 +309,9 @@ Practice
 - Source, select Anywhere-IPv4
 - Select Save rules
 
-.. image:: pictures/a447.png
+.. image:: pictures/a448.png
    :align: center
-   :width: 7000px
+   :width: 1000px
 
 33. In the Practice interface.
 
@@ -319,7 +319,7 @@ Practice
 - Read CONCEPT
 - Select the right arrow to see the next steps
 
-.. image:: pictures/a448.png
+.. image:: pictures/a449.png
    :align: center
    :width: 7000px
 
@@ -327,7 +327,7 @@ Practice
 
 - Select Instances
 
-.. image:: pictures/a449.png
+.. image:: pictures/a450.png
    :align: center
    :width: 7000px
 
@@ -336,7 +336,7 @@ Practice
 - Read step 18 of Networking Concepts
 - Select the right arrow to see the next steps
 
-.. image:: pictures/a450.png
+.. image:: pictures/a451.png
    :align: center
    :width: 7000px
 
@@ -346,7 +346,7 @@ Practice
 - Select Networking
 - Select and copy Public IPv4 address
 
-.. image:: pictures/a451.png
+.. image:: pictures/a452.png
    :align: center
    :width: 7000px
 
@@ -356,7 +356,7 @@ Practice
 - Read CONCEPT
 - Select the right arrow to see the next steps
 
-.. image:: pictures/a452.png
+.. image:: pictures/a453.png
    :align: center
    :width: 7000px
 
@@ -365,13 +365,13 @@ Practice
 - Paste Public Ipv4 address
 - Results returned
 
-.. image:: pictures/a453.png
+.. image:: pictures/a454.png
    :align: center
    :width: 7000px
 
 39. Congratulations to the player on completing the lab.
 
-.. image:: pictures/a454.png
+.. image:: pictures/a455.png
    :align: center
    :width: 7000px
 
