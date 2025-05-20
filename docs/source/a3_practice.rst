@@ -326,7 +326,7 @@ Select Instance Types
 
 .. image:: pictures/33.png
    :align: center
-   :width: 7000px
+   :width: 1000px
 
 34. In the Practice interface.
 
