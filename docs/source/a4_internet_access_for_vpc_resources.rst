@@ -51,7 +51,7 @@ Lab #4 of AWS Cloud Quest: Cloud Practitioner is Internet Access for VPC Resourc
    
 
    a4_learn
-   a4_Plan
-   a4_Practice
+   a4_plan
+   a4_practice
    a4_diy
 
