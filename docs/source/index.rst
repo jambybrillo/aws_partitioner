@@ -32,6 +32,7 @@ Contents
    a1_static_web_hosting
    a2_launch_an_amazon_ec2_instance
    a3_connect_to_an_ec2_instance
+   a4_internet_acess_for_vpc_resources
    a7_database
    a8_security
    a9_file_systems
