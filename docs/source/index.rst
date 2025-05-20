@@ -36,3 +36,5 @@ Contents
    a7_database
    a8_security
    a9_file_systems
+   a10_nosql_databases
+   a11_scaling
