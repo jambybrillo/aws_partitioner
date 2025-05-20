@@ -44,3 +44,13 @@ The 11th lab of AWS Cloud Quest: Cloud Practitioner is Configuring EC2 Auto Scal
    :width: 7000px
 
 
+.. toctree::
+   :maxdepth: 1
+   
+
+   a11_learn
+   a11_plan
+   a11_practice
+   a12_diy
+
+
