@@ -1,7 +1,14 @@
-Learn
+Plan
 ===========
 
 .. admonition:: Info
 
-  Learn helps players to understand more theory about Auto-healing and Scaling Applications
+To switch to Plan, players take the following steps after Learn
+
+
+1. In the Plan interface
+
+- Read Practice Lab Goals
+- Read DIY Goals
+- Select Practice to perform the lab
 
