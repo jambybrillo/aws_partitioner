@@ -1,4 +1,4 @@
-PLAN
+Plan
 ========
 
 .. admonition:: Info
