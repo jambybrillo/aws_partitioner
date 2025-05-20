@@ -48,6 +48,15 @@ AWS Cloud Quest: Cloud Practitioner’s 10th lab is Creating and Querying an Ama
    :width: 7000px
 
 
+.. toctree::
+   :maxdepth: 1
+   
+
+   a10_learn
+   a10_plan
+   a10_practice
+   a10_diy
+
 
 
 
