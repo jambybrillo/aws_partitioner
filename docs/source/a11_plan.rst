@@ -12,3 +12,8 @@ To switch to Plan, players take the following steps after Learn
 - Read DIY Goals
 - Select Practice to perform the lab
 
+
+.. image:: pictures/0001-plan11.png
+   :align: center
+   :width: 7000px
+
