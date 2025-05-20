@@ -34,3 +34,4 @@ Contents
    a3_connect_to_an_ec2_instance
    a7_database
    a8_security
+   a9_file_systems
