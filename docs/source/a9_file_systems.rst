@@ -59,3 +59,14 @@ Lab number 9 of AWS Cloud Quest: Cloud Practitioner is File System in the Cloud 
    :width: 7000px
 
 
+
+.. toctree::
+   :maxdepth: 1
+   
+
+   a9_learn
+   a9_plan
+   a9_practice
+   a9_diy
+
+
