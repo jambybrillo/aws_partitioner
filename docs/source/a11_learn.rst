@@ -16,3 +16,14 @@ Learn
    :width: 7000px
 
 
+2. In the Learn interface
+
+- See step 2 of Auto-healing and Scaling Applications
+
+
+.. image:: pictures/0002-learn11.png
+   :align: center
+   :width: 7000px
+
+
+
