@@ -195,7 +195,7 @@ Practice
 
 .. image:: pictures/a435.png
    :align: center
-   :width: 7000px
+   :width: 1000px
 
 21. In the Practice interface.
 
