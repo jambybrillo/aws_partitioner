@@ -19,13 +19,17 @@ After watching Plan, the player prepares for Practice
    :width: 7000px
 
 
-2. In the Auto-healing and Scaling Applications interface
+2. In the Practice interface
 
-- View Rewards
-- Select NEXT
+- Read step 2 of Auto-healing and Scaling Applications
+- Read CONCEPT
+- Select Open AWS Console
+- Select the arrow to the right to see the next steps
 
 
 .. image:: pictures/0002-practice11.png
    :align: center
    :width: 7000px
+
+
 
