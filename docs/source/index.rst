@@ -1,13 +1,13 @@
 Welcome to AWS Cloud Quest: Cloud Practitioner Documentation!
 =============================================================
 
-Group 6
+Group 5
 =======
 
 **Members:**
 
-- Ramel G. Mogar  
-- Jamby I. Brillo  
+- Jamby I. Brillo 
+- Ramel G. Mogar 
 - Melquisedic Miclat  
 - Henry Obrequi
 
