@@ -17,3 +17,8 @@ After watching Plan, the player prepares for Practice
 .. image:: pictures/0001-practice11.png
    :align: center
    :width: 7000px
+
+
+2. .. image:: pictures/0001-practice11.png
+   :align: center
+   :width: 7000px
