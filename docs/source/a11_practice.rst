@@ -19,6 +19,13 @@ After watching Plan, the player prepares for Practice
    :width: 7000px
 
 
-2. .. image:: pictures/0001-practice11.png
+2. In the Auto-healing and Scaling Applications interface
+
+- View Rewards
+- Select NEXT
+
+
+.. image:: pictures/0002-practice11.png
    :align: center
    :width: 7000px
+
